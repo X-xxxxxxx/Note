@@ -28,4 +28,4 @@ C#作为面向对象语言，支持**封装**，**继承**和**多态**
 
 相关博客
 * [反射详解与java对比](https://blog.csdn.net/xiansenLee/article/details/105756817)
-* [反射应用]()
+* [反射应用](https://blog.csdn.net/xiansenLee/article/details/105768822)
